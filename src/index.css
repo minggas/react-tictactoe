@@ -32,9 +32,11 @@ ul {
 }
 
 .container {
+  max-width: 800px;
   width: 100%;
   height: calc(100% - 15px);
   background-color: black;
+  margin: auto;
 }
 
 .status {
